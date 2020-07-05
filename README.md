@@ -1,5 +1,5 @@
 # FitFunctionANDkCluster
-Data is comprised of the spike activity of neurons recording in an awake behaving mouse. Mice were presented with a light stimulus that repeated at a regular interval. Averaging the neural responses of each cell over all intervals reveals a gaussian-like function for many cells, with each cell showing an activity peak at shifting timepoints over the interval. The goal of this project is to use gaussian fit and initial response parameters for each cell and determine whether classes of response types exist to represent the passage of time in the brain between the light flashes. 
+Data are comprised of the spike activity of neurons recording in an awake behaving mouse. Mice were presented with a light stimulus that repeated at a regular interval. Averaging the neural responses of each cell over all intervals reveals a gaussian-like function for many cells, with each cell showing an activity peak at shifting timepoints over the interval. The goal of this project is to use gaussian fit and initial response parameters for each cell and determine whether classes of response types exist to represent the passage of time in the brain between the light flashes. 
 
 To Run:
 Load one dataset and then type 'curvefitANDcluster' (no quotes) in command window to run.
